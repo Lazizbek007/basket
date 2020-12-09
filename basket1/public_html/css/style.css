@@ -1,0 +1,47 @@
+body{
+    background-color:white ;
+}
+img.obr2{
+  width:600px;
+  height:600px;    
+}
+
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline aqua
+     
+}
+h2{
+    color:blue;
+    text-decoration: underline
+}
+h3{
+    color:yellowgreen ;
+}
+h4{
+    color:bisque ;
+}
+th.prvni {
+    color: red;
+}
+td.posledni{
+    color:blue;
+}
+h5{
+    color: brown;
+}
+h6{
+    color: lemonchiffon;
+}
+li.hi{
+    text-height: max-size;
+    font-size: ;large;
+}
+img.obr1{
+width: 800px;
+height: 800px;
+}
+h1.obrazek{
+    color: black
+}
